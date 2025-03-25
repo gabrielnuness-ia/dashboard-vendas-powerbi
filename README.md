@@ -9,7 +9,8 @@ O foco é proporcionar uma análise eficiente do desempenho de vendas por regiã
 ## 📂 Estrutura do Repositório
 
 - `nintendo-sending-package.csv`: Contém a base de dados original utilizada para análise e construção do dashboard.
-- `Análise Loja Nintendo.pdf`: Arquivo final com o dashboard criado.
+- `Análise Loja Nintendo.pdf`: Arquivo final em .PDF com o dashboard criado para visualização.
+- `Análise Loja Nintendo.pbit`: Arquivo final com o dashboard em PowerBi.
 - `README.md`: Documentação explicando o projeto e instruções para reprodução.
 
 ## 📊 Informações Apresentadas
@@ -44,18 +45,18 @@ O objetivo é permitir:
 
 ## 🛠️ Ferramentas Utilizadas
 
-- **Excel**: Para criação do dashboard e visualização dos dados.
-- **Power Query** (opcional): Para transformação e limpeza dos dados.
+- **PowerBI**: Para criação do dashboard e visualização dos dados.
+- **Power Query**: Para transformação e limpeza dos dados.
 
 ## 🚀 Como Reproduzir
 
-1. Faça o download dos arquivos `base.xlsx` e `dashboard_nintendo_finalizado.xlsx`.
-2. Abra o arquivo `dashboard_nintendo_finalizado.xlsx` no Excel.
+1. Faça o download dos arquivos `nintendo-sending-package.csv` e `Análise Loja Nintendo.pbit`.
+2. Abra o arquivo `dashboard_nintendo_finalizado.xlsx` no PowerBi.
 3. Explore o dashboard para obter insights detalhados.
 
 ## 📝 Observações Finais
 
-Este projeto foi desenvolvido como parte de um desafio educacional, com foco na aplicação prática de análise de dados e visualização no Excel. Ele pode ser adaptado para outros contextos de vendas ou setores.
+Este projeto foi desenvolvido como parte de um desafio educacional, com foco na aplicação prática de análise de dados e visualização no PowerBI. Ele pode ser adaptado para outros contextos de vendas ou setores.
 
 ---
 
